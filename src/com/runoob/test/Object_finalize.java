@@ -13,7 +13,7 @@ public class Object_finalize extends GregorianCalendar{
 
 			// finalize cal
 			System.out.println("Finalizing...");
-			cal.finalize();
+//			cal.finalize();
 			System.out.println("Finalized.");
 
 		} catch (Throwable ex) {

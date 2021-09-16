@@ -1,10 +1,11 @@
 package com.runoob.test;
 
 import java.io.*;
-public class ExcepTest{
- 
-   public static void main(String args[]){
-	 
+import java.rmi.RemoteException;
+
+public class ExcepTest {
+
+	public static void main(String args[]){
       try{
          int a[] = new int[2];
          System.out.println("Access element three :" + a[3]);
@@ -12,5 +13,12 @@ public class ExcepTest{
          System.out.println("Exception thrown  :" + e);
       }
       System.out.println("Out of the block");
+      
+//      public void deposit(double amount) throws RemoteException
+//      {
+//        // Method implementation
+//        throw new RemoteException();
+//      }
+      //Remainder of class definition
    }
 }
