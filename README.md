@@ -9,6 +9,10 @@
 ### 配置数据库环境
 ### 创建数据库并插入数据
 ### 建立连接，返回数据
+数据库的可视化软件使用的sqlyog
+
+![image](https://user-images.githubusercontent.com/39176119/134447362-f76f91fd-2598-4567-852c-426f12d25204.png)
+
 效果截图：
 
 ![image](https://user-images.githubusercontent.com/39176119/134447011-fddf0854-0ba7-4a1a-8928-1cae7d8eb503.png)
